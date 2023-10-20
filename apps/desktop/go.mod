@@ -1,6 +1,6 @@
 module changeme
 
-go 1.21
+go 1.18
 
 replace github.com/devzolo/app/custom_logger => ../../modules/custom_logger
 
