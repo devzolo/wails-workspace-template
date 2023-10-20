@@ -1,3 +1,6 @@
+install:
+	corepack enable && pnpm i
+
 dev:
 	cd apps/desktop && wails dev
 
